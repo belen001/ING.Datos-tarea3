@@ -75,4 +75,9 @@ jupyter notebook
 En el cuaderno encontrarás gráficos detallados comparando ecosistemas, repositorios más riesgosos y esquemas de alertas tempranas divididos en niveles Crítico, Alto, Medio y Bajo.
 
 ---
+**Integrantes:**
+- Belén Bravo
+- Viviana Castro
+- Valentina Cifuentes
+
 **Asignatura:** Ingeniería de Datos.
